@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.Form1.resources
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.Resources.resources
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\vera1\vera1\bin\Debug\vera1.exe.config
+C:\Users\HP\source\repos\vera1\vera1\bin\Debug\vera1.exe
+C:\Users\HP\source\repos\vera1\vera1\bin\Debug\vera1.pdb
+C:\Users\HP\source\repos\vera1\vera1\bin\Debug\vera1.xml
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.exe
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.xml
+C:\Users\HP\source\repos\vera1\vera1\obj\Debug\vera1.pdb
